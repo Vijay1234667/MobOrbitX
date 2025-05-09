@@ -23,7 +23,7 @@ const options = {
       type: 'line', // or 'bar', 'pie', 'area', etc.
       name: 'System 1',
       data: [120, 200, 150, 80],
-      data: [1500, 2300, 1800, 2700, 3200],
+      dat: [1500, 2300, 1800, 2700, 3200],
       color: '#377CFE', 
     },
 
@@ -31,7 +31,7 @@ const options = {
       type: 'line', // or 'bar', 'pie', 'area', etc.
       name: 'ads.com',
       data: [10, 200, 150, 80],
-      data: [10, 1900, 1100, 1700, 1900],
+      dat: [10, 1900, 1100, 1700, 1900],
       color: '#39CB7B', 
     },
   ],
