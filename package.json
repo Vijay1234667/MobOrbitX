@@ -24,6 +24,7 @@
     "date-fns": "^4.1.0",
     "highcharts": "^12.2.0",
     "highcharts-react-official": "^3.2.1",
+    "init": "^0.1.2",
     "primeicons": "^7.0.0",
     "primereact": "^10.9.4",
     "react": "^19.0.0",
